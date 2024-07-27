@@ -100,6 +100,13 @@ number:
       x1: 200
       y1: 200
       id: presence_region_0
+  presence_points:
+    - id: close
+      x: 1
+      y: 2
+    - id: far
+      x: 4
+      y: 4
   entry_points:
     - x: 0
       y: 0
